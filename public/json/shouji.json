@@ -1,0 +1,33 @@
+[
+    {
+        "goodsName":"shouji1",
+        "img":"img/shouji/shouji1.jpg"
+    },
+    {
+        "goodsName":"shouji2",
+        "img":"img/shouji/shouji2.jpg"
+    },{
+        "goodsName":"shouji3",
+        "img":"img/shouji/shouji3.jpg"
+    }, {
+        "goodsName":"shouji4",
+        "img":"img/shouji/shouji1.jpg"
+    },
+    {
+        "goodsName":"shouji5",
+        "img":"img/shouji/shouji2.jpg"
+    },{
+        "goodsName":"shouji6",
+        "img":"img/shouji/shouji3.jpg"
+    }, {
+        "goodsName":"shouji7",
+        "img":"img/shouji/shouji1.jpg"
+    },
+    {
+        "goodsName":"shouji8",
+        "img":"img/shouji/shouji2.jpg"
+    },{
+        "goodsName":"shouji9",
+        "img":"img/shouji/shouji3.jpg"
+    }
+]
